@@ -1,5 +1,5 @@
 console.log(soma(3, 4))
-// Function declaration
+// Function declaration  // nesta função é carregado tudo no início
 
 function soma(x, y) {
     return x + y
@@ -16,5 +16,7 @@ const mult = function mult(x, y) {
     return x * y
 }
 console.log(mult(3, 4))
+
+
 
 
