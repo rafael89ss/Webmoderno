@@ -35,8 +35,8 @@ const carro = {
 }
 
 carro.proprietario.endereco.numero = 1000;
-carro['proprietario']['endereco']['logradouro'] = 'Av Gigante'
+carro['proprietario']['endereco']['logradouro'] = 'Av Gigante';
 console.log(carro)
 
-delete carro.condutores
-delete carro.proprietario.endereco
+delete carro.condutores;
+delete carro.proprietario.endereco;
